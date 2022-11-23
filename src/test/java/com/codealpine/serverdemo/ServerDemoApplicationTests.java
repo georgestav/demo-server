@@ -1,10 +1,10 @@
-package com.codealpine.demoserver;
+package com.codealpine.serverdemo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class DemoServerApplicationTests {
+class ServerDemoApplicationTests {
 
 	@Test
 	void contextLoads() {

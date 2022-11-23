@@ -1,7 +1,7 @@
 # Read Me First
 The following was discovered as part of building this project:
 
-* The original package name 'com.codealpine.demo-server' is invalid and this project uses 'com.codealpine.demoserver' instead.
+* The original package name 'com.codealpine.server-demo' is invalid and this project uses 'com.codealpine.serverdemo' instead.
 
 # Getting Started
 
